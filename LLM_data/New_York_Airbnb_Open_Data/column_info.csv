@@ -1,0 +1,8 @@
+Column Name,Column Description,Column Type
+listing_id,Unique identifier for each listing.,Unique Identifier
+date,Date for which availability and pricing information is recorded.,Date
+available,"Indicates whether the listing is available on the specified date (t for true, f for false).",Boolean
+price,Daily rental price for the listing on the specified date (if available).,Categorical
+adjusted_price,"Often reflects the price adjusted for specific factors like weekend rates, seasonal changes, or demand spikes.",Unique Identifier
+minimum_nights,"Specifies the minimum number of nights required to book the listing on that date. This can vary depending on season, events, or host preferences.",Numerical
+maximum_nights,Sets the upper limit on the number of nights a guest can book on a particular date.,Numerical

@@ -1,0 +1,12 @@
+Column Name,Column Description,Column Type
+User ID,Unique identifier assigned to each user,Unique Identifier
+Device Model,The model name of the user's smartphone,Categorical
+Operating System,The operating system running on the device (iOS or Android),Categorical
+App Usage Time (min/day),"Total daily time spent using mobile applications, measured in minutes",Numerical
+Screen On Time (hours/day),"Average daily duration the screen is active, measured in hours",Numerical
+Battery Drain (mAh/day),"Amount of battery consumed daily, measured in milliamp hours (mAh)",Numerical
+Number of Apps Installed,Total number of applications installed on the device,Numerical
+Data Usage (MB/day),"Daily mobile data consumption, measured in megabytes (MB)",Numerical
+Age,Age of the user in years,Numerical
+Gender,Gender of the user (Male or Female),Categorical
+User Behavior Class,No description available,Numerical

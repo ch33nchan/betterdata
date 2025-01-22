@@ -1,0 +1,6 @@
+Column Name,Column Description,Column Type
+state,State name,Categorical
+county,County name,Categorical
+current_votes,Reporting votes,Numerical
+total_votes,Total votes,Numerical
+percent,Vote %,Numerical

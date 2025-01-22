@@ -1,0 +1,15 @@
+Column Name,Column Description,Column Type
+person_age,age,Numerical
+person_gender,gender,Categorical
+person_education,education,Categorical
+person_income,annual income,Numerical
+person_emp_exp,professional experience,Numerical
+person_home_ownership,home ownership,Categorical
+loan_amnt,loan amount,Numerical
+loan_intent,loan intent,Categorical
+loan_int_rate,loan interest rate,Numerical
+loan_percent_income,loan/income ratio,Numerical
+cb_person_cred_hist_length,credit history length (year),Numerical
+credit_score,credit score,Numerical
+previous_loan_defaults_on_file,previous on file default,Boolean
+loan_status,loan approval,Numerical

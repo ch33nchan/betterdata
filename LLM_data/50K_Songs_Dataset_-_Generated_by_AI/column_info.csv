@@ -1,0 +1,9 @@
+Column Name,Column Description,Column Type
+track_name,The name of the track,String
+artist_name,The name of the artist,String
+duration_ms,The duration of the track in milliseconds,Integer
+popularity,The popularity of the track (0-100),Integer
+genre,The genre of the track,String
+key,The key of the track,String
+mode,The mode of the track (major/minor),String
+tempo,The tempo of the track in BPM,Float

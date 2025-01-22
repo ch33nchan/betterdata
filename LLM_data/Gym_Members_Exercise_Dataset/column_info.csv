@@ -1,0 +1,16 @@
+Column Name,Column Description,Column Type
+Age,The age of the gym member (in years),Numerical
+Gender,The gender of the gym member (Male or Female),Categorical
+Weight (kg),Member's body weight measured in kilograms,Numerical
+Height (m),Member's height measured in meters,Numerical
+Max_BPM,Maximum beats per minute (BPM) recorded during a workout session,Numerical
+Avg_BPM,Average beats per minute (BPM) during the workout session,Numerical
+Resting_BPM,"Member's heart rate (BPM) before starting the workout, at rest",Numerical
+Session_Duration (hours),"The total time spent during a workout session, measured in hours",Numerical
+Calories_Burned,The number of calories burned during the workout session,Numerical
+Workout_Type,"The type of workout performed (e.g., Cardio, Strength, Yoga, HIIT)",Categorical
+Fat_Percentage,Member's body fat percentage,Numerical
+Water_Intake (liters),Amount of water consumed during the day (in liters),Numerical
+Workout_Frequency (days/week),The number of workout sessions per week,Numerical
+Experience_Level,Member's experience level: 1: Beginner 2: Intermediate 3: Expert,Numerical
+BMI,"Body Mass Index, calculated as weight (kg) divided by the square of height (m²)",Numerical

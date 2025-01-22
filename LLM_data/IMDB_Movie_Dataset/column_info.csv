@@ -1,0 +1,13 @@
+Column Name,Column Description,Column Type
+Rank,The ranking of the movie based on popularity or ratings.,Numerical
+Title,The title of the movie.,Categorical
+Genre,"The genre(s) of the movie (e.g., Action, Adventure, Sci-Fi).",Categorical
+Description,A brief description or synopsis of the movie.,Categorical
+Director,The director of the movie.,Categorical
+Actors,The main cast or leading actors in the movie.,Categorical
+Year,The release year of the movie.,Numerical
+Runtime (Minutes),The runtime of the movie in minutes.,Numerical
+Rating,The IMDb user rating of the movie on a scale from 1 to 10.,Numerical
+Votes,The number of user votes for the movie on IMDb.,Numerical
+Revenue (Millions),The box office revenue of the movie in millions of dollars.,Numerical
+Metascore,"The Metascore of the movie, representing the aggregated critic reviews score on a scale of 1 to 100.",Numerical

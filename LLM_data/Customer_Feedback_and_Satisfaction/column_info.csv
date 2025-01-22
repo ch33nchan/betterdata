@@ -1,0 +1,12 @@
+Column Name,Column Description,Column Type
+CustomerID,Unique identifier for each customer,Unique Identifier
+Age,Age of the customer,Numerical
+Gender,Gender of the customer,Categorical
+Country,Country of residence,Categorical
+Income,Annual income of the customer,Numerical
+ProductQuality,Quality rating of the product on a scale from 1 to 10,Numerical
+ServiceQuality,Quality rating of the service on a scale from 1 to 10,Numerical
+PurchaseFrequency,Number of purchases made by the customer in the last year,Numerical
+FeedbackScore,"Overall feedback score categorized as Low, Medium, or High",Categorical
+LoyaltyLevel,Loyalty status of the customer,Categorical
+SatisfactionScore,No description available,Numerical

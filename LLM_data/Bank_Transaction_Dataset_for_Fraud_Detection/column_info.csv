@@ -1,0 +1,17 @@
+Column Name,Column Description,Column Type
+TransactionID,Unique ID for each transaction.,Categorical
+AccountID,"Unique ID for each account, linked to multiple transactions.",Categorical
+TransactionAmount,Monetary value of the transaction.,Numerical
+TransactionDate,Date and time of the transaction.,Date
+TransactionType,"Type of transaction, either 'Credit' or 'Debit.'",Categorical
+Location,U.S. city where the transaction occurred.,Categorical
+DeviceID,ID of the device used for the transaction.,Categorical
+IP Address,IPv4 address associated with the transaction.,Categorical
+MerchantID,Unique ID for the merchant involved in the transaction.,Categorical
+Channel,"Transaction channel (e.g., Online, ATM, Branch).",Categorical
+CustomerAge,Age of the account holder.,Numerical
+CustomerOccupation,Occupation of the account holder.,Categorical
+TransactionDuration,Duration of the transaction in seconds.,Numerical
+LoginAttempts,Number of login attempts before the transaction.,Numerical
+AccountBalance,Account balance after the transaction.,Numerical
+PreviousTransactionDate,Date and time of the prior transaction for the account.,Date

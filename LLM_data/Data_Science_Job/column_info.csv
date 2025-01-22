@@ -1,0 +1,13 @@
+Column Name,Column Description,Column Type
+work_year,"The year when the job listing was posted or the job position is relevant (e.g., 2020, 2021).",Numerical
+job_title,"The job title of the professional in the data science field (e.g., Data Scientist, Machine Learning Engineer).",Categorical
+job_category,"The category of the job, specifying the main field in data science or AI it falls under (e.g., ML/AI, Data Engineering).",Categorical
+salary_currency,"The currency in which the salary is provided (e.g., USD, EUR, INR).",Categorical
+salary,"The offered salary amount for the position, listed in the original currency.",Numerical
+salary_in_usd,The salary amount converted to USD for comparison purposes.,Numerical
+employee_residence,"The country code where the employee resides (e.g., JP, IN, US).",Categorical
+experience_level,The level of experience required for the job position.,Categorical
+employment_type,"employment_type: Specifies the type of employment for the position, indicating whether the role is full-time, part-time, contract, or freelance.",Categorical
+work_setting,"The working arrangement for the position, specifying if the job is in-person, hybrid, or remote.",Categorical
+company_location,No description available,Categorical
+company_size,No description available,Categorical
