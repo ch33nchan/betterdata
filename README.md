@@ -11,7 +11,7 @@
    - Installs the required Python packages listed in the `requirements.txt` file.
 
 4. **Ensure the Dataset Directory is Set Correctly:**
-   - By default, the dataset path is set to the Google Colab working directory.
+   - By default, the dataset path is set to the Kaggle working directory.
    - If running locally, update the `BASE_PATH` variable in the `report1.py` and `RLHF.py` files to point to the correct directory containing the datasets.
 
 5. **Run the Main Script to Generate Synthetic Data:**
